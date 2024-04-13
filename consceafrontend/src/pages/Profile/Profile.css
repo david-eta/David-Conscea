@@ -1,0 +1,18 @@
+.profilebtn {
+    margin-top:30px;
+    margin-left:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0b75b0;
+    color: #ffffff;
+    font-size:x-large;
+    height:50px;
+    width:275px;
+    border-radius: 15px 40px;
+    border:none;
+    margin-left:none;
+}
+
+.profilebtn:hover {
+    cursor:pointer;
+    background-color: #0eaddc;
+}

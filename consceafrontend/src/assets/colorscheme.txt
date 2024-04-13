@@ -1,0 +1,23 @@
+Capgemini Colors:
+Capgemini Blue: #0b75b0 <-- MAIN
+Vibrant Blue: #0eaddc <-- SECONDARY
+Deep Purple: #1f0b3d
+Tech Red: #ee4559
+Zest Green: #8fc63e
+Gray: #e6e7e9
+White: #ffffff
+
+Ubuntu Typeface
+Verdana Font  <---- USING GLOBAL
+
+Light to Dark:
+#FBFFF4
+#CCD9CE
+#9EB4AD
+#738F8F
+#4D6B74
+#2F4858
+
+Contrasting Olives:
+Light: #A2B08D
+Dark: #43493A

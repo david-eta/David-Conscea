@@ -1,0 +1,81 @@
+/* EQUIVALENT TO GLOBAL (except login i believe) */
+
+.topbar {
+    height:11vh;
+    background-color: #0b75b0;
+}
+
+.bottombar {
+    height:5vh;
+    background-color: #0eaddc;
+}
+
+.logo {
+    margin-top:0;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:oblique;
+    font-weight: bold;
+    letter-spacing: -1.5px;
+    text-align: left;
+    padding: 2vh 30px;
+}
+
+ul {
+    width: 100%;
+    float: left;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    letter-spacing: .5px;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+a:link, a:visited {
+    background-color: #0eaddc;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+  }
+  
+  a:hover, a:active {
+    background-color: #1f0b3d;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-spacing: 5px 5px;
+    border-collapse:separate; 
+}
+
+th {
+    border: 3px white solid;
+    border-radius: 15px;
+    padding: 10px;
+
+    font-size: x-large;
+    letter-spacing: .5px;
+
+    background-color: #0b75b0;
+    color:white;
+}
+
+td {
+    border: 3px white solid;
+    border-radius: 15px;
+    padding: 5px;
+
+    background-color: white;
+    color:#1f0b3d;
+}

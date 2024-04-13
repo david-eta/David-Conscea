@@ -1,0 +1,98 @@
+h1 {
+    color:#0b75b0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:oblique;
+    font-weight: bold;
+    letter-spacing: -1.5px;
+}
+
+td {
+    max-width: 200px;
+    word-wrap: break-word;
+}
+
+.btns {
+    width:110px;
+    background-color: transparent;
+    border: 0px;
+}
+
+.certCRUD {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0b75b0;
+    color: #ffffff;
+    font-size:large;
+    height:50px;
+    width:100px;
+    border-radius: 15px 40px;
+    border:none;
+    margin-left:none;
+}
+
+.certCRUD:hover {
+    cursor:pointer;
+    background-color: #0eaddc;
+}
+
+.addnew {
+    margin-top:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0b75b0;
+    color: #ffffff;
+    font-size:x-large;
+    height:80px;
+    width:200px;
+    border-radius: 15px 40px;
+    border:none;
+    margin-left:none;
+}
+
+.addnew:hover {
+    cursor:pointer;
+    background-color: #0eaddc;
+}
+
+.modalHead {
+    flex: auto;
+    align-content: center;
+    font-size: larger;
+}
+
+.modalbtn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #0b75b0;
+    color: #ffffff;
+    font-size:large;
+    height:50px;
+    width:225px;
+    border-radius: 15px 40px;
+    border:none;
+    margin-left:none;
+}
+
+.modalbtn:hover {
+    cursor:pointer;
+    background-color: #0eaddc;
+}
+
+.delbtn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ee4559;
+    color: #ffffff;
+    font-size:large;
+    height:50px;
+    width:225px;
+    border-radius: 15px 40px;
+    border:none;
+    margin-left:none;
+}
+
+.delbtn:hover {
+    cursor:pointer;
+    background-color: red;
+}
+
+span {
+    color:#ee4559;
+    font-weight:500;
+}
